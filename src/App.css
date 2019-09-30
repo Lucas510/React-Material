@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  /*background-color: #282c34;*/
+  background-image: url(https://foodandtravel.mx/wp-content/uploads/2019/07/Chocolateoronegro.jpg);
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background-repeat: no-repeat;
+  padding: 20px;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+}
+.App-body {
+  background-color: #bcaaa4;
+}
+.App-link {
+  color: #09d3ac;
+}
+
